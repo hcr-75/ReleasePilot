@@ -13,3 +13,7 @@ AI-powered release assistant that analyzes GitHub repository history and generat
 ## ReleasePilot Status
 
 Release notes are generated from verified GitHub repository history.
+
+## ReleasePilot Status
+
+Release notes are generated from verified GitHub repository history.
