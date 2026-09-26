@@ -1,2 +1,11 @@
 # ReleasePilot
-AI Release Captain — an agent that analyzes commits, runs tests, drafts release notes, and requires human approval before publishing.
+
+AI-powered release assistant that analyzes GitHub repository history and generates structured release notes.
+
+## Features
+
+- Analyze commits and changes
+- Compare releases
+- Identify features and bug fixes
+- Generate structured release notes
+- Require human approval before repository modifications
